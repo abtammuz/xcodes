@@ -52,7 +52,7 @@ rm /root/xt_1.0.60-inst.sh
 echo " "
 echo "####################################################################################"
 echo " "
-echo "Xtream Codes 1.0.60 edited by maxdata755 public Version"
+echo "Xtream Codes 1.0.60 edited by @krisher public Version"
 echo " "
 echo "Installation abgeschlossen..."
 echo " "
